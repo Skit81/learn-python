@@ -1,5 +1,6 @@
 .idea
 .pytest_cache
+probe.py
 venv
 **/*.pyc
 env
